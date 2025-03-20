@@ -12,4 +12,4 @@
 2. test 2 
 3. test 3
 
-### for more datails press the here [Details] (details.md)
+### for more datails press the here [Details](details.md)
