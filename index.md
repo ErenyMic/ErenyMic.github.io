@@ -13,5 +13,3 @@
 3. test 3
 
 ### for more datails press the here [Details](details.md)
-
-![This is a test PIC](san-juan-mountains.avif "San Juan Mountains")
