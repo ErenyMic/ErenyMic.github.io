@@ -6,5 +6,4 @@
 * test 3
 * test 1 
 
-![This is a test PIC](san-juan-mountains.avif "San Juan Mountains")
-<img src="san-juan-mountains.avif" width="100" height="50">
+![This is a test PIC](0.jpg)
