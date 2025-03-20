@@ -1,2 +1,2 @@
-![This is a test PIC](2.jpg)
+![This is a test PIC](p2.jpg)
 ### [Back](details.md)
