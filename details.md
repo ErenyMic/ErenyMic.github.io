@@ -11,5 +11,5 @@
 | test      | Link |
 | ------ | ------- |
 | 1      | [test1](test1.md) |
-| 2      | [test1](test2.md) |
-| 3      | [test1](test3.md) |
+| 2      | [test2](test2.md) |
+| 3      | [test3](test3.md) |
